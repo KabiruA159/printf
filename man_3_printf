@@ -60,3 +60,6 @@ Output: decimal: 100
 
 On success, _printf returns the number of printed characters. If formats is error or NULL returns -1
 
+.SH AUTHORS
+
+Kabiru Abdullahi, Nebiyu Elias
